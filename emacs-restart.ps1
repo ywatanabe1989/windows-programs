@@ -1,0 +1,2 @@
+wsl --shutdown
+wsl emacs
